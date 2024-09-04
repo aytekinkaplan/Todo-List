@@ -2,7 +2,7 @@
 
 A sleek, responsive todo list application built with HTML, CSS, and JavaScript, utilizing Bootstrap for a modern dark theme interface.
 
-![Todo List App Screenshot](https://via.placeholder.com/800x400.png?text=Todo+List+App+Screenshot)
+![Todo List App Screenshot]("todoscreen.png")
 
 ## Features
 
