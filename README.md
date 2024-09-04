@@ -2,7 +2,7 @@
 
 A sleek, responsive todo list application built with HTML, CSS, and JavaScript, utilizing Bootstrap for a modern dark theme interface.
 
-![Todo List App Screenshot]("todoscreen.png")
+![Todo List App Screenshot](todoscreen.png)
 
 ## Features
 
@@ -15,7 +15,7 @@ A sleek, responsive todo list application built with HTML, CSS, and JavaScript, 
 
 ## Live Demo
 
-[View Live Demo](https://aytekinkaplan.github.io/Todo-List/) (Replace with your actual demo link)
+[View Live Demo](https://aytekinkaplan.github.io/Todo-List/)
 
 ## Getting Started
 
@@ -29,15 +29,13 @@ These instructions will help you set up a copy of the project on your local mach
 ### Installation
 
 1. Clone the repository:
-
    ```
    git clone https://github.com/aytekinkaplan/Todo-List.git
    ```
 
 2. Navigate to the project directory:
-
    ```
-   cd todo-list-app
+   cd Todo-List
    ```
 
 3. Open the `index.html` file in your web browser.
