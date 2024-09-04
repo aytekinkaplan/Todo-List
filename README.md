@@ -15,7 +15,7 @@ A sleek, responsive todo list application built with HTML, CSS, and JavaScript, 
 
 ## Live Demo
 
-[View Live Demo](https://aytekinkaplan.github.io/todo-list-app) (Replace with your actual demo link)
+[View Live Demo](https://aytekinkaplan.github.io/Todo-List/) (Replace with your actual demo link)
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ These instructions will help you set up a copy of the project on your local mach
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/aytekinkaplan/Todo-List.git
    ```
 
 2. Navigate to the project directory:
